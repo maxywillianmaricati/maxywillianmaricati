@@ -9,6 +9,6 @@
 <br>
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=maxywillianmaricati&show_icons=true&include_all_commits=true&count_private=true&theme=react&locale=pt-br" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maxywillianmaricati&layout=compact&langs_count=8&theme=react&locale=pt-br" height="150"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=maxywillianmaricati&show_icons=true&theme=react" height="150"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=maxywillianmaricati&layout=compact&theme=react" height="150"/>
 </div>
