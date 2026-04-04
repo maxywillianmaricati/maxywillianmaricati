@@ -1,4 +1,4 @@
-## 🎓 estudante de análise e desenvolvimento de sistemasa
+## 🎓 estudante de análise e desenvolvimento de sistemas
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python" />
