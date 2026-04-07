@@ -7,7 +7,7 @@
   <a href="mailto:maxywillianmaricati@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-MAXYWILLIANMARICATI-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-    <a href="https://www.instagram.com/maxywillian_" target="_blank">
+  <a href="https://www.instagram.com/maxywillian_" target="_blank">
     <img src="https://img.shields.io/badge/INSTAGRAM-@MAXYWILLIAN__-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 </div>
@@ -25,10 +25,10 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=maxywillianmaricati&show_icons=true&theme=react" height="150"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=maxywillianmaricati&show_icons=true&theme=react" height="150"/>
     </td>
     <td>
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=maxywillianmaricati&layout=compact&theme=react" height="150"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxywillianmaricati&layout=compact&theme=react" height="150"/>
     </td>
   </tr>
 </table>
