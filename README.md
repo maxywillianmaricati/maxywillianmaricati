@@ -7,6 +7,9 @@
   <a href="https://www.instagram.com/maxywillian_" target="_blank">
     <img src="https://img.shields.io/badge/INSTAGRAM-@MAXYWILLIAN__-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
+  <a href="mailto:maxywillianmaricati@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-MAXYWILLIANMARICATI-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
 </div>
 
 <br>
