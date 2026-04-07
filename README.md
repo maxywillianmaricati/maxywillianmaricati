@@ -6,6 +6,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45" alt="Linux" />
 </div>
 
+## 🌐 Onde me encontrar
+
+<div align="left">
+  <a href="https://github.com/maxywillianmaricati" target="_blank">
+    <img src="https://img.shields.io/badge/GITHUB-MAXYWILLIANMARICATI-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://www.instagram.com/maxywillian_" target="_blank">
+    <img src="https://img.shields.io/badge/INSTAGRAM-@MAXYWILLIAN__-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+</div>
+
+<br>
 <br>
 
 <table>
