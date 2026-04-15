@@ -12,6 +12,7 @@
 <br>
 
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45" alt="Linux" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub" />
@@ -19,13 +20,6 @@
 
 <br>
 
-<table border="0">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=maxywillianmaricati&show_icons=true&theme=react" height="170" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=maxywillianmaricati&layout=compact&theme=react" height="170" />
-    </td>
-  </tr>
-</table>
+<div align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maxywillianmaricati&theme=react&hide_border=true" alt="Streak Stats" height="170" />
+</div>
