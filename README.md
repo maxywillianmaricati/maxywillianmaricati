@@ -19,7 +19,13 @@
 
 <br>
 
-<div align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=maxywillianmaricati&show_icons=true&theme=react" width="410" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=maxywillianmaricati&layout=compact&theme=react" width="310" />
-</div>
+<table border="0">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=maxywillianmaricati&show_icons=true&theme=react" height="170" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=maxywillianmaricati&layout=compact&theme=react" height="170" />
+    </td>
+  </tr>
+</table>
